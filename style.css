@@ -396,6 +396,7 @@ section.experience{
     /* Azul/100% */
     color: #2A7AE4;
     border: none;
+    text-decoration: none;
 }
 
 .experience__botao--demo {
